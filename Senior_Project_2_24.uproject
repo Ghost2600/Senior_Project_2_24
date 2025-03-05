@@ -25,10 +25,6 @@
 		{
 			"Name": "AlembicHairImporter",
 			"Enabled": true
-		},
-		{
-			"Name": "DynamicPaletteSystem",
-			"Enabled": true
 		}
 	]
 }
