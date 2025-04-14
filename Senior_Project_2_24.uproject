@@ -33,6 +33,10 @@
 		{
 			"Name": "WidgetEditorToolPalette",
 			"Enabled": true
+		},
+		{
+			"Name": "DynamicPaletteSystem",
+			"Enabled": true
 		}
 	]
 }
